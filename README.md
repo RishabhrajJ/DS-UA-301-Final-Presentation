@@ -44,14 +44,18 @@ The outcomes are diverse, contingent on the dataset and the model under scrutiny
 Traditional Models on Email Dataset:
 
 NB: Accuracy – 95.2%, F1-Score – 94.8%
-(Additional models and their results...)
-DistilRoBERTa on YouTube Dataset:
+(Additional models and their results in pdf version and colab link)
+RoBERTa on YouTube Dataset:
 
 Epoch 1: Training Loss – ..., Validation Loss – ..., F1-Score – 97.2%
-(Further epochs and their results...)
+(Additional models and their results in pdf version and colab link)
+
 Observations:
 
-Language Model Transformers, with DistilRoBERTa as a representative, demonstrated a notable uplift in performance when compared to their traditional counterparts.
+Language Model Transformers, with RoBERTa as a representative, demonstrated a notable uplift in performance when compared to their traditional counterparts.
 Although models like Naive Bayes (NB) and Logistic Regression (LR) displayed commendable outcomes, they fell short of the nearly impeccable scores accomplished by transformer models.
 The computational adversities encountered during the training phase of larger LLMs notwithstanding, the results underline their prospective advantages and the potential they present.
 For an in-depth exploration, encompassing charts, plots, and a more profound interpretation of the results, kindly refer to the results/ directory.
+
+Link to Colab:
+https://colab.research.google.com/drive/1vnB4xLIBmVUpgAh-nBFBHnnG3F-Z9d-J?usp=sharing 
